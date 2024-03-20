@@ -1,0 +1,12 @@
+Datasets for each model:
+
+ASR (en):
+https://huggingface.co/datasets/google/fleurs
+
+Translation (en -> es):
+https://huggingface.co/datasets/qanastek/ELRC-Medical-V2
+
+https://huggingface.co/datasets/zouharvi/bio-mqm-dataset
+
+Text2Speech (es):
+https://huggingface.co/datasets/ylacombe/google-chilean-spanish
